@@ -6,4 +6,3 @@ cucumber
 tomato
 -----------
 cherry tree
-apple tree
