@@ -3,4 +3,3 @@ pinneaple
 blueberries
 -----------
 cucumber
-lettuce
