@@ -1,6 +1,6 @@
 apple
-pinneaple
 blueberries
+tangerine
 -----------
 cucumber
 tomato
